@@ -2,10 +2,10 @@
 - 👀 I’m interested in programming and music
 - 🌱 I’m currently learning guitar
 - 💞️ I’m looking to collaborate on anything to do with game modding
-- 📫 How to reach me discord or steam
+- 📫 How to reach me use steam
 
 > [!NOTE]
-> Highlights information that users should take into account, even when skimming.
+> As stated above to reach me use [my steam](https://steamcommunity.com/id/FuseeTheDeFuser/) just leave a comment with why you want to reach me and add me ill get to you as fast as I can.
 
 
 <!---
