@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on anything to do with game modding
 - 📫 How to reach me discord or steam
 
-- [!NOTE]
-- Highlights information that users should take into account, even when skimming.
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
 
 <!---
 WelshModder/WelshModder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
